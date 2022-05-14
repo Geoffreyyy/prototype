@@ -1,1 +1,3 @@
-# prototype
+# vupfans 项目原型讨论区
+
+在notion中的想法如果存在讨论的必要，欢迎把它们转换成这个repo里面的discussion。记得在notion对应的想法下面留一条指向discussion的链接喔。
